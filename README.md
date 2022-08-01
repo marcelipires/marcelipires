@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marceli Pires
 - 👀 I’m interested in Front-End  e  UX/UI Design
 - 🌱 I’m currently learning  Web Design, UX/UI Design, HTML, CSS, JavaScript e React.
-- <p> Linkedin <a href="https://www.linkedin.com/in/marcelipires/"<a/></p>
+
  
 
 <!---
